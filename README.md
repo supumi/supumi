@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="cute_code.gif?v=15" width="470" alt="cute code">
+  <img src="cute_code.gif?v=16" width="470" alt="cute code">
 </div>
 
 ### 🚀 项目
@@ -20,21 +20,22 @@
 
 **✅ 实战**
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?logo=openai&logoColor=white)
-![通义千问](https://img.shields.io/badge/通义千问-615CED?logo=alibabacloud&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-7C3AED)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00D7FF?logo=YOLO&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?logo=espressif&logoColor=white)
 
 **🛠 AI 工具**
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?logo=openai&logoColor=white)
+![通义千问](https://img.shields.io/badge/通义千问-615CED?logo=alibabacloud&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white)
 ![DeepSeek Harness](https://img.shields.io/badge/DeepSeek%20Harness-4D6BFE)
 ![Hermes](https://img.shields.io/badge/Hermes-0EA5E9)
 ![Trae](https://img.shields.io/badge/Trae-5348DB)
 ![WorkBuddy](https://img.shields.io/badge/WorkBuddy-00A9FF)
 ![OpenCode](https://img.shields.io/badge/OpenCode-45F882)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97706)
 
 **🌱 学习中**
 ![LangChain](https://img.shields.io/badge/LangChain-6e7681?logo=chainlink&logoColor=white)
