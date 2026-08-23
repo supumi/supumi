@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="cute_code.gif?v=12" width="470" alt="cute code">
+  <img src="cute_code.gif?v=13" width="470" alt="cute code">
 </div>
 
 ### 🚀 项目
@@ -18,15 +18,21 @@
 
 ### 🧰 技术栈
 
+**✅ 实战**
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?logo=openai&logoColor=white)
+![通义千问](https://img.shields.io/badge/通义千问-615CED?logo=alibabacloud&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00D7FF?logo=YOLO&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-0066FF?logo=openai&logoColor=white)
-![通义千问](https://img.shields.io/badge/通义千问-615CED?logo=alibabacloud&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?logo=espressif&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+**🌱 学习中**
+![LangChain](https://img.shields.io/badge/LangChain-6e7681?logo=chainlink&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6e7681)
+![Ollama](https://img.shields.io/badge/Ollama-6e7681)
+![Function Calling](https://img.shields.io/badge/Function%20Calling-6e7681)
+![MCP](https://img.shields.io/badge/MCP-6e7681)
 
 ### 📫
 
