@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="cute_code.gif?v=13" width="470" alt="cute code">
+  <img src="cute_code.gif?v=14" width="470" alt="cute code">
 </div>
 
 ### 🚀 项目
@@ -23,6 +23,8 @@
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?logo=openai&logoColor=white)
 ![通义千问](https://img.shields.io/badge/通义千问-615CED?logo=alibabacloud&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-7C3AED)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00D7FF?logo=YOLO&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?logo=espressif&logoColor=white)
@@ -30,9 +32,7 @@
 **🌱 学习中**
 ![LangChain](https://img.shields.io/badge/LangChain-6e7681?logo=chainlink&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-6e7681)
-![Ollama](https://img.shields.io/badge/Ollama-6e7681)
 ![Function Calling](https://img.shields.io/badge/Function%20Calling-6e7681)
-![MCP](https://img.shields.io/badge/MCP-6e7681)
 
 ### 📫
 
