@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="cute_code.gif?v=16" width="470" alt="cute code">
+  <img src="cute_code.gif?v=17" width="470" alt="cute code">
 </div>
 
 ### 🚀 项目
@@ -36,6 +36,7 @@
 ![WorkBuddy](https://img.shields.io/badge/WorkBuddy-00A9FF)
 ![OpenCode](https://img.shields.io/badge/OpenCode-45F882)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97706)
+![华为码道云](https://img.shields.io/badge/华为码道云-C7000B)
 
 **🌱 学习中**
 ![LangChain](https://img.shields.io/badge/LangChain-6e7681?logo=chainlink&logoColor=white)
