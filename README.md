@@ -13,7 +13,7 @@
 <br>
 
 <div align="center">
-  <img src="cute_code.gif?v=4" width="500" alt="cute code">
+  <img src="cute_code.gif?v=5" width="500" alt="cute code">
 </div>
 
 <br>
