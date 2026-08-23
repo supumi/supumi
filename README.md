@@ -1,11 +1,21 @@
+<table align="center" border="0">
+<tr>
+<td align="center"><img src="avatar.png" width="110" alt="me"></td>
+<td align="center"><img src="https://robohash.org/supumi?set=set4&size=130x130" alt="mascot"></td>
+</tr>
+<tr>
+<td align="center"><sub>真人</sub></td>
+<td align="center"><sub>吉祥物 🐱</sub></td>
+</tr>
+</table>
+
 <div align="center">
-  <img src="avatar.png" width="100" alt="avatar">
   <h3>supumi · He Jianwei</h3>
   <p><sub>外贸 × AI · 正在修炼「全领域大师」技能树</sub></p>
 </div>
 
 <div align="center">
-  <img src="cute_code.gif?v=9" width="470" alt="cute code">
+  <img src="cute_code.gif?v=10" width="470" alt="cute code">
 </div>
 
 ### 🚀 项目
