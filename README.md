@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="cute_code.gif?v=7" width="470" alt="cute code">
+  <img src="cute_code.gif?v=8" width="470" alt="cute code">
 </div>
 
 ### 🚀 项目
