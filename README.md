@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="cute_code.gif?v=17" width="470" alt="cute code">
+  <img src="cute_code.gif?v=18" width="470" alt="cute code">
 </div>
 
 ### 🚀 项目
@@ -42,6 +42,8 @@
 ![LangChain](https://img.shields.io/badge/LangChain-6e7681?logo=chainlink&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-6e7681)
 ![Function Calling](https://img.shields.io/badge/Function%20Calling-6e7681)
+![LLM Fine-tuning](https://img.shields.io/badge/LLM%20Fine--tuning-6e7681)
+![Agent Product Design](https://img.shields.io/badge/Agent%20Product%20Design-6e7681)
 
 ### 📫
 
