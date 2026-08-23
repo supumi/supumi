@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="cute_code.gif?v=14" width="470" alt="cute code">
+  <img src="cute_code.gif?v=15" width="470" alt="cute code">
 </div>
 
 ### 🚀 项目
@@ -28,6 +28,13 @@
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00D7FF?logo=YOLO&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?logo=espressif&logoColor=white)
+
+**🛠 AI 工具**
+![DeepSeek Harness](https://img.shields.io/badge/DeepSeek%20Harness-4D6BFE)
+![Hermes](https://img.shields.io/badge/Hermes-0EA5E9)
+![Trae](https://img.shields.io/badge/Trae-5348DB)
+![WorkBuddy](https://img.shields.io/badge/WorkBuddy-00A9FF)
+![OpenCode](https://img.shields.io/badge/OpenCode-45F882)
 
 **🌱 学习中**
 ![LangChain](https://img.shields.io/badge/LangChain-6e7681?logo=chainlink&logoColor=white)
