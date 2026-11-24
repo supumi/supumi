@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- 动态科技波浪头图 -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:1e3a8a,100:06b6d4&height=210&section=header&text=He%20Jianwei%20%C2%B7%20supumi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Foreign%20Trade%20%C3%97%20AI%20Agent%20Builder%20%7C%20Vibe%20Coding%20%26%20Edge%20AI&descAlignY=60&descSize=18&animation=fadeIn" />
+<!-- 专属自托管动态科技横幅（永不裂图） -->
+<img width="100%" src="./banner.svg" alt="He Jianwei · supumi" />
 
 <!-- 动态打字机标语 -->
 <a href="https://supumi.github.io">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=%3E_+%E5%A4%96%E8%B4%B8+%C3%97+AI+Agent+%E5%AE%9E%E6%88%98%E6%B4%BE+%C2%B7+Turning+Ideas+into+Shipped+Products;%3E_+Exploring+MCP+%2F+RAG+%2F+Claude+Code+%2F+DeepSeek+%2F+Edge+Vision;%3E_+Building+AI+Tools+for+Global+Trade%2C+Health+%26+Everyday+Life" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=%3E_+%E5%A4%96%E8%B4%B8+%C3%97+AI+Agent+%E5%AE%9E%E6%88%98%E6%B4%BE+%C2%B7+Turning+Ideas+into+Products;%3E_+Exploring+MCP+%2F+RAG+%2F+Claude+Code+%2F+DeepSeek+%2F+Edge+AI;%3E_+Building+AI+Tools+for+Global+Trade+%26+Everyday+Life" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -121,5 +121,5 @@ currently_exploring:
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,55:1e3a8a,100:050816&height=95&section=footer" />
+  <sub>⚡ Crafted with AI-Native Mindset · Visit <a href="https://supumi.github.io">supumi.github.io</a> for Live Interactive Project Demos</sub>
 </div>
