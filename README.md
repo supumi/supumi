@@ -1,50 +1,125 @@
 <div align="center">
-  <img src="avatar.png" width="110" alt="avatar">
-  <h3>supumi · He Jianwei</h3>
-  <p><sub>外贸 × AI · 正在修炼「全领域大师」技能树</sub></p>
+
+<!-- 动态科技波浪头图 -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:1e3a8a,100:06b6d4&height=210&section=header&text=He%20Jianwei%20%C2%B7%20supumi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Foreign%20Trade%20%C3%97%20AI%20Agent%20Builder%20%7C%20Vibe%20Coding%20%26%20Edge%20AI&descAlignY=60&descSize=18&animation=fadeIn" />
+
+<!-- 动态打字机标语 -->
+<a href="https://supumi.github.io">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=%3E_+%E5%A4%96%E8%B4%B8+%C3%97+AI+Agent+%E5%AE%9E%E6%88%98%E6%B4%BE+%C2%B7+Turning+Ideas+into+Shipped+Products;%3E_+Exploring+MCP+%2F+RAG+%2F+Claude+Code+%2F+DeepSeek+%2F+Edge+Vision;%3E_+Building+AI+Tools+for+Global+Trade%2C+Health+%26+Everyday+Life" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- 个人官网与核心徽章 -->
+<p>
+  <a href="https://supumi.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-supumi.github.io-06b6d4?style=for-the-badge&labelColor=0f172a" />
+  </a>
+  <img src="https://img.shields.io/badge/📍_BASE-Wuhan%2C_China-3b82f6?style=for-the-badge&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/🎯_FOCUS-Foreign_Trade_%C3%97_AI-8b5cf6?style=for-the-badge&labelColor=0f172a" />
+  <img src="https://komarev.com/ghpvc/?username=supumi&style=for-the-badge&color=0ea5e9&labelColor=0f172a&label=VIEWS" />
+</p>
+
+</div>
+
+---
+
+### `>_` Whoami
+
+```yaml
+name: He Jianwei (supumi)
+affiliation: School of Foreign Economics and Trade, Wuhan Textile University
+role: Foreign Trade × AI Builder · Full-Stack & Agentic Workflow Explorer
+mission:
+  - 用 AI Agent 与自动化重塑外贸获客、信息检索与日常办公效率
+  - 从「调 API」走向「端到端交付」：软件工具 / 视觉算法 / ESP32 硬件全栈实验
+currently_exploring:
+  - Model Context Protocol (MCP) & Multi-Agent Orchestration
+  - RAG / Function Calling / Local LLM Deployment (Ollama)
+  - AI-Native Product Design & Rapid Prototyping
+```
+
+---
+
+### 🚀 Featured Projects · 精选实战项目
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 <a href="https://github.com/supumi/ebrietas-Email">ebrietas-Email</a></h3>
+      <p><b>外贸 × AI 智能获客引擎</b></p>
+      <p>结合 LinkedIn 数据、Bright Data、Hunter.io 与通义千问大模型，自动化完成海外潜在客户挖掘、邮箱验证与精准开发信生成。</p>
+      <p>
+        <code>Python</code> <code>Qwen</code> <code>Bright Data</code> <code>Hunter.io</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💙 <a href="https://github.com/supumi/mindcapture-app">mindcapture-app</a></h3>
+      <p><b>DeepSeek AI 心理健康陪伴平台</b></p>
+      <p>集 AI 深度共情对话、博客社区与多维成长测评于一体的全栈 AI Web 应用，配套 <a href="https://github.com/supumi/mindcapture-survey">mindcapture-survey</a> 九维量表系统。</p>
+      <p>
+        <code>DeepSeek</code> <code>FastAPI</code> <code>AI Chat</code> <code>Full-Stack</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🦯 <a href="https://github.com/supumi/OpenAIglasses_for_Navigation">OpenAIglasses_for_Navigation</a></h3>
+      <p><b>ESP32 智能盲人导航开源框架</b></p>
+      <p>软硬件结合的边缘端 AI 探索，基于 ESP32 打造的智能眼镜导航辅助框架，连接真实物理世界与 AI 感知能力。</p>
+      <p>
+        <code>ESP32</code> <code>Edge AI</code> <code>Hardware</code> <code>Open Source</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🥗 <a href="https://github.com/supumi/nutri-pal">nutri-pal</a></h3>
+      <p><b>YOLOv8 智能营养识别助手</b></p>
+      <p>基于 YOLOv8 目标检测与 OpenCV 图像处理构建的桌面端食物识别与营养分析工具，带完整可视化 GUI。</p>
+      <p>
+        <code>YOLOv8</code> <code>OpenCV</code> <code>Python</code> <code>GUI</code>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### ⚡ AI & Engineering Stack · 技术雷达
+
+<div align="center">
+
+**🤖 AI Agents & LLM Ecosystem**
+<br/>
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Qwen_%E9%80%9A%E4%B9%89%E5%8D%83%E9%97%AE-615CED?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/MCP-0EA5E9?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Ollama-111827?style=for-the-badge&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG_%26_Agents-7C3AED?style=for-the-badge&logoColor=white" />
+
+<br/><br/>
+
+**🛠️ Engineering, Vision & Hardware**
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-0F172A?style=for-the-badge&logo=linux&logoColor=white" />
+
+</div>
+
+---
+
+### 📊 GitHub Telemetry · 开发活跃度
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=supumi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=06b6d4" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supumi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8" />
 </div>
 
 <div align="center">
-  <img src="cute_code.gif?v=20" width="470" alt="cute code">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,55:1e3a8a,100:050816&height=95&section=footer" />
 </div>
-
-### 🚀 项目
-
-- **🌐 [ebrietas-Email](https://github.com/supumi/ebrietas-Email)** — LinkedIn 外贸客户智能挖掘 · Bright Data + Hunter.io + 通义千问
-- **💙 [mindcapture-app](https://github.com/supumi/mindcapture-app)** — DeepSeek AI 心理健康陪伴平台 · AI 对话 / 博客 / 测评
-- **🥗 [nutri-pal](https://github.com/supumi/nutri-pal)** — YOLOv8 营养识别助手 · OpenCV + GUI
-- **🦯 [OpenAIglasses_for_Navigation](https://github.com/supumi/OpenAIglasses_for_Navigation)** — ESP32 盲人导航开源框架
-- **📊 [mindcapture-survey](https://github.com/supumi/mindcapture-survey)** — 九维个人成长分析量表问卷
-
-### 🧰 技术栈
-
-**✅ 实战**
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-7C3AED)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00D7FF?logo=YOLO&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?logo=espressif&logoColor=white)
-
-**🛠 AI 工具**
-![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?logo=openai&logoColor=white)
-![通义千问](https://img.shields.io/badge/通义千问-615CED?logo=alibabacloud&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white)
-![DeepSeek Harness](https://img.shields.io/badge/DeepSeek%20Harness-4D6BFE)
-![Hermes](https://img.shields.io/badge/Hermes-0EA5E9)
-![Trae](https://img.shields.io/badge/Trae-5348DB)
-![WorkBuddy](https://img.shields.io/badge/WorkBuddy-00A9FF)
-![OpenCode](https://img.shields.io/badge/OpenCode-45F882)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-D97706)
-![华为码道云](https://img.shields.io/badge/华为码道云-C7000B)
-
-**🌱 学习中**
-![LangChain](https://img.shields.io/badge/LangChain-6e7681?logo=chainlink&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-6e7681)
-![Function Calling](https://img.shields.io/badge/Function%20Calling-6e7681)
-![LLM Fine-tuning](https://img.shields.io/badge/LLM%20Fine--tuning-6e7681)
-![Agent Product Design](https://img.shields.io/badge/Agent%20Product%20Design-6e7681)
-
-### 📫
-
-[![GitHub](https://img.shields.io/badge/GitHub-supumi-181717?logo=github&logoColor=white)](https://github.com/supumi)
