@@ -113,11 +113,22 @@ currently_exploring:
 
 ---
 
-### 📊 GitHub Telemetry · 开发活跃度
+### 🌐 Interactive Portfolio · 个人 AI 实验室官网
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=supumi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=06b6d4" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supumi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8" />
+  <a href="https://supumi.github.io" target="_blank">
+    <img width="92%" src="./portfolio_preview.png" alt="supumi.github.io Interactive AI Portfolio" />
+  </a>
+  <br/>
+  <sub>👆 点击上方预览图访问 <a href="https://supumi.github.io"><b>https://supumi.github.io</b></a>（含交互式 AI 终端、5 大项目动态演示与中英双语切换）</sub>
+</div>
+
+---
+
+### 📊 Tech Language Distribution · 技术语言分布
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supumi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8" />
 </div>
 
 <div align="center">
